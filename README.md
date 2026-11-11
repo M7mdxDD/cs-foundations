@@ -6,4 +6,4 @@ Mohamed - Coding Mentorship Program
 Build a strong base in computer science and programming, then choose my track with evidence.
 
 ## Weeks
-- [Week 1: Bits, Gates and the Machine](week-01/)
+- [Week 1: Bits Gates and the Machine](week-01/)
