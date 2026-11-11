@@ -25,3 +25,11 @@ steps:
 14) 1110 is E, 0010 is 2 -> 0xE2
 16) A is 1010, 7 is 0111 -> 10100111
 19) 12 * 16 + 8 = 200
+Exercise 5:
+1) 45 + 27 = 72 -> 01001000
+2) 200 + 100 = 300, in 8 bits it gives 00101100 (44) because the 9th bit (256) gets dropped (overflow).
+3) -20 = 11101100
+   -128 = 10000000
+4) 10010110 = -128 + 16 + 4 + 2 = -106
+5) 01111111 + 1 = 10000000 (127 + 1 turns into -128 because of signed overflow).
+6) A byte maxes out at 255 (11111111), so adding 1 resets all 8 bits back to 00000000 like an old car counter at 99999.
